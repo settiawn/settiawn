@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 📫 You can reach me at aryobaskorosetiawan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a recent graduate from Hacktiv8 bootcamp and looking for opportunities!
+- Currently looking for opportunities!
 
 - [![GitHub stats](https://github-readme-stats.vercel.app/api?username=settiawn)](https://github.com/settiawn)
 
